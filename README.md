@@ -31,13 +31,19 @@ To run this project follow this step:
 13.Finally install:
 
 # env\Scripts\Activate.bat
+
 # python manage.py makemigrations
+
 # python manage.py migrate
+
 # python manage.py runserver
 
 You can access the website in your "http://127.0.0.1:8000/"
 
 ## Author:
+
 Md Minhajul Islam
+
 Sadia Islam Raida
+
 Marufur Rashid
